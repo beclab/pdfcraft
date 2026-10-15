@@ -1,0 +1,14 @@
+.git
+.github
+**/target
+dist
+corpus
+log
+plan
+fuzz-out
+craft-fonts
+assets/models
+**/.DS_Store
+**/.env
+**/.env.*
+*.log
